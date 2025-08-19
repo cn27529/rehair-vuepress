@@ -12,10 +12,10 @@
 <span class="line">```markdown</span>
 <span class="line"># 設計實例</span>
 <span class="line"></span>
-<span class="line">以下展示髮妝師的作品：</span>
+<span class="line">以下展示妝髮師的作品：</span>
 <span class="line"></span>
 <span class="line">- Before / After 圖片</span>
-<span class="line">- 髮妝師介紹</span>
+<span class="line">- 妝髮師介紹</span>
 <span class="line">- 可嵌入影片範例（YouTube iframe）</span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div></div></template>
 

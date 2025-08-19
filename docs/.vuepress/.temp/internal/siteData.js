@@ -1,4 +1,4 @@
-export const siteData = JSON.parse("{\"base\":\"/\",\"lang\":\"en-US\",\"title\":\"Rehair Wig Salon\",\"description\":\"Rehair Wig Salon給您髮型重生、找回自信、質感高級\",\"head\":[],\"locales\":{}}")
+export const siteData = JSON.parse("{\"base\":\"/\",\"lang\":\"en-US\",\"title\":\"Rehair專業妝髮設計\",\"description\":\"Rehair每一縷髮絲，都是自信的延伸\",\"head\":[],\"locales\":{}}")
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()

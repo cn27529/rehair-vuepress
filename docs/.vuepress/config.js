@@ -5,8 +5,8 @@ import { viteBundler } from '@vuepress/bundler-vite'
 export default defineUserConfig({
   lang: 'en-US',
 
-  title: 'Rehair Wig Salon',
-  description: 'Rehair Wig Salon給您髮型重生、找回自信、質感高級',
+  title: 'Rehair專業妝髮設計',
+  description: 'Rehair每一縷髮絲，都是自信的延伸',
 
   theme: defaultTheme({
     // logo: 'https://vuejs.press/images/hero.png',
@@ -23,7 +23,7 @@ export default defineUserConfig({
       { text: '聯絡我們', link: '/contact/' },
     ],
     sidebar: false,
-    footer: '© 2025 Rehair Wig Salon — 專業妝髮設計 | 版權所有',
+    footer: '© 2025 Rehair Wig Salon | Rehair專業妝髮設計 | 版權所有',
     displayFooter: true,
 
   }),

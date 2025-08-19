@@ -1,7 +1,7 @@
 ---
 home: true
-title: Rehair專業妝髮設計
-heroImage: /images/logo.png
+title: Rehair妝髮設計
+heroImage: /images/hero.jpg
 heroText: 展現真實自我，從頭開始
 tagline: 打造您的專屬魅力，找回自信與風采
 actions:
